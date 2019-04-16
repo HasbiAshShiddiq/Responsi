@@ -1,0 +1,7 @@
+c:\users\amikom\source\repos\ResponsiPemrog2252\ResponsiPemrog2252\obj\Debug\ResponsiPemrog2252.csprojAssemblyReference.cache
+c:\users\amikom\source\repos\ResponsiPemrog2252\ResponsiPemrog2252\obj\Debug\ResponsiPemrog2252.csproj.CoreCompileInputs.cache
+c:\users\amikom\source\repos\ResponsiPemrog2252\ResponsiPemrog2252\bin\Debug\ResponsiPemrog2252.exe.config
+c:\users\amikom\source\repos\ResponsiPemrog2252\ResponsiPemrog2252\bin\Debug\ResponsiPemrog2252.exe
+c:\users\amikom\source\repos\ResponsiPemrog2252\ResponsiPemrog2252\bin\Debug\ResponsiPemrog2252.pdb
+c:\users\amikom\source\repos\ResponsiPemrog2252\ResponsiPemrog2252\obj\Debug\ResponsiPemrog2252.exe
+c:\users\amikom\source\repos\ResponsiPemrog2252\ResponsiPemrog2252\obj\Debug\ResponsiPemrog2252.pdb
