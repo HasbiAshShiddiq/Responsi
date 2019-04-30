@@ -1,0 +1,7 @@
+C:\Users\Hasbi Ash Shiddiq\Documents\C#\Pemograman\Responsi\Responsi\obj\Debug\Responsi.csprojAssemblyReference.cache
+C:\Users\Hasbi Ash Shiddiq\Documents\C#\Pemograman\Responsi\Responsi\obj\Debug\Responsi.csproj.CoreCompileInputs.cache
+C:\Users\Hasbi Ash Shiddiq\Documents\C#\Pemograman\Responsi\Responsi\bin\Debug\Responsi.exe.config
+C:\Users\Hasbi Ash Shiddiq\Documents\C#\Pemograman\Responsi\Responsi\bin\Debug\Responsi.exe
+C:\Users\Hasbi Ash Shiddiq\Documents\C#\Pemograman\Responsi\Responsi\bin\Debug\Responsi.pdb
+C:\Users\Hasbi Ash Shiddiq\Documents\C#\Pemograman\Responsi\Responsi\obj\Debug\Responsi.exe
+C:\Users\Hasbi Ash Shiddiq\Documents\C#\Pemograman\Responsi\Responsi\obj\Debug\Responsi.pdb
